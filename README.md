@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yamin lawar
 - 👀 I’m interested in full stack development with powerful technologies and provide best technical solutions to real world problems 
 - 🌱 I’m currently learning Mongo DB, Typescript and Vue js
-- 💞️ I’m looking to launch my first product soon 
 - 📫 you can reach me via LinkedIn on https://www.linkedin.com/in/yamin-lawar-25b5235b/
 
 <!---
